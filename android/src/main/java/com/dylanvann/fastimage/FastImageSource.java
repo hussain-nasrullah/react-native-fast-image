@@ -99,7 +99,6 @@ public class FastImageSource {
         return getGlideUrl();
     }
 
-    @Override
     public Uri getUri() {
         return mUri;
     }
